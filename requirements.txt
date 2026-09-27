@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+streamlit
+
+requests
+beautifulsoup4
+lxml
+
+python-dotenv
+pydantic
+
+openai
+
+neo4j
+faiss-cpu
+numpy
